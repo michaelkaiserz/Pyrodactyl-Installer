@@ -5,5 +5,5 @@
 ↓
 Script:
 ```bash
-curl -sL https://i-will-replace.it | bash
+curl -sL https://raw.githubusercontent.com/michaelkaiserz/Pyrodactyl-Installer/refs/heads/main/installer.sh | bash
 ```
